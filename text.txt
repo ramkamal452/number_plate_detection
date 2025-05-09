@@ -1,0 +1,7 @@
+# general idea take the image and find the border of pixcel range (0,255) value in the image - so we get black screen area
+
+# find the rectangular black space to find any number then change image  black to white , white to black
+
+# track digital number on the screen
+
+#return the number 
